@@ -34,7 +34,7 @@
 4. [Similarity metrics for finding similarity between image representation vectors](https://docs.google.com/document/d/1BU7CyktUr5x3UQeErRvu0eb9hnbpMEf3YfWn6doCmEo/edit?usp=sharing) <br>
 5. [Object detection models](https://docs.google.com/document/d/1oyGZHHzRHcmMOoldbjm7wCK3dkJ-7gtGof0N4dW9fVw/edit?usp=drive_link) <br>
 6. [OCR models](https://docs.google.com/document/d/18qM2dFXHbgXnvP3ySgOd4ukTuyles6SsI28S-PcyeaI/edit?usp=sharing) <br>
-7. Metrics
+7. Metrics <br>
 7.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing) <br>
 7.2. [For OCR](https://docs.google.com/document/d/1gbkllynV_VnRC7kU6yAdftyvBRl9nBQqga4lA6cOXVE/edit?usp=sharing) <br>
 
