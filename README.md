@@ -28,7 +28,8 @@
 
 ## Computer Vision 
 
-1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies
+1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies <br>
+2. [Background extraction algorithms](https://docs.google.com/document/d/1XEhd3OpThcv1u9DNhny6Gjk2W1ihsylnhBf5Q4bcbks/edit?usp=sharing) <br>
 
 
 
