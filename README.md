@@ -3,12 +3,12 @@
 1. Architectures <br>
 1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) <br>
 1.2. Transformer (a type of Language model) <br>
-&nbsp;&nbsp;1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1VDVUjCs7R7CApmPvXT95OdPNIed1u_8QavRHpIvRL1M/edit?usp=sharing) <br>
-&nbsp;&nbsp;1.2.2. [Transformer-based pre-trained LMs for machine translation](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1VDVUjCs7R7CApmPvXT95OdPNIed1u_8QavRHpIvRL1M/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2. [Transformer-based pre-trained LMs for machine translation](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing) <br>
 1.3. BERT (a type of Language model) <br>
-&nbsp;&nbsp;1.3.1. [Original BERT](https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link) <br>
-&nbsp;&nbsp;1.3.2. [BioBERT](https://docs.google.com/document/d/1YWCwVeTFuEtk6hyeW-iKhRIJGiyd6ZUqzBAh6R6ckW4/edit?usp=sharing) <br>
-&nbsp;&nbsp;1.3.2. [RoBERTa](https://docs.google.com/document/d/12_b7DXJf7bDoZGO1IpvuKBYI7NGaTcg3PWaywq4Po3o/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1. [Original BERT](https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [BioBERT](https://docs.google.com/document/d/1YWCwVeTFuEtk6hyeW-iKhRIJGiyd6ZUqzBAh6R6ckW4/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [RoBERTa](https://docs.google.com/document/d/12_b7DXJf7bDoZGO1IpvuKBYI7NGaTcg3PWaywq4Po3o/edit?usp=sharing) <br>
 
 3. Word Embedding Models <br>
 2.1. [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing) <br>
