@@ -2,9 +2,9 @@
 
 1. Architectures <br>
 1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing): see the code to use this architecture for task of Image Captioning [here](https://github.com/malayjoshi13/Describer). <br>
-1.2. Transformer (a type of Language model)
-1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1VDVUjCs7R7CApmPvXT95OdPNIed1u_8QavRHpIvRL1M/edit?usp=sharing): see the code to implement it from scratch [here](https://github.com/malayjoshi13/Understanding-Transformer).
-1.2.2. [Transformer-based pre-trained LMs for machine translation: Helsinki-NLP/opus-mt-hi-en, facebook/mbart-large-50-many-to-one-mmt, facebook/m2m100_418M](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing): see the code to use these models for task of Machine Translation [here](https://github.com/malayjoshi13/NeuralMachineTranslator).
+1.2. Transformer (a type of Language model) <br>
+1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1VDVUjCs7R7CApmPvXT95OdPNIed1u_8QavRHpIvRL1M/edit?usp=sharing): see the code to implement it from scratch [here](https://github.com/malayjoshi13/Understanding-Transformer). <br>
+1.2.2. [Transformer-based pre-trained LMs for machine translation: Helsinki-NLP/opus-mt-hi-en, facebook/mbart-large-50-many-to-one-mmt, facebook/m2m100_418M](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing): see the code to use these models for task of Machine Translation [here](https://github.com/malayjoshi13/NeuralMachineTranslator). <br>
 
 2. Word Embedding Models <br>
 2.1. [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing): used [here](https://github.com/malayjoshi13/Describer). <br>
