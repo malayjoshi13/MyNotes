@@ -52,12 +52,10 @@
 
 3. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) <br>
 
-4. Metrics <br>
-4.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
-4.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
-4.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
-4.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
-
-
 4. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
 
+5. Metrics <br>
+5.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
+5.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
+5.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
+5.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
