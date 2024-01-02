@@ -7,6 +7,10 @@
 2.1. [BLEU score](https://docs.google.com/document/d/1lKH2x3n77tTvh3Jfe6sV-VisUQZ68Q0YaD3WQSW13kk/edit?usp=sharing) <br>
 2.2. [ROUGHE score](https://docs.google.com/document/d/1xUQj_GsOtHkqW8wq5NAYLoqvkfCqhXfFGsAqX9ZEsag/edit?usp=sharing) <br>
 
+3. Word Embedding Models <br>
+3.1. [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing)
+3.2. [Word2Vec](https://docs.google.com/document/d/1uMI2jRvtdNcC7F-c9de-xiXpc__-u0TOcJnucnup-Vc/edit?usp=sharing)
+
 
 
 ## Deep Learning
