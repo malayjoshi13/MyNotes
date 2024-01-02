@@ -1,7 +1,7 @@
 ## NLP
 
 1. Architectures <br>
-1.1. LSTM (type of RNN) <br>
+1.1. [LSTM (type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) <br>
 
 2. Word Embedding Models <br>
 2.1. [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing)<br>
