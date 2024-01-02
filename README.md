@@ -30,6 +30,8 @@
 
 1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies <br>
 2. [Background extraction algorithms](https://docs.google.com/document/d/1XEhd3OpThcv1u9DNhny6Gjk2W1ihsylnhBf5Q4bcbks/edit?usp=sharing) <br>
+3. [Face detection, alignment, and recognition models](https://docs.google.com/document/d/1trH2mB0tfAA9cAvHFnjXmSHT_wx5Xs4iKmy7ShQOOw8/edit?usp=sharing) <br>
+4. [Similarity metrics for finding similarity between image representation vectors](https://docs.google.com/document/d/1BU7CyktUr5x3UQeErRvu0eb9hnbpMEf3YfWn6doCmEo/edit?usp=sharing) <br>
 
 
 
