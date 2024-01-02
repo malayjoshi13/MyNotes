@@ -16,6 +16,16 @@
 
 
 
+
+
+## Computer Vision 
+
+1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing)
+
+
+
+
+
 ## Deep Learning
 
 1. Hyperparameters <br>
@@ -25,6 +35,7 @@
 2. Optimizers <br>
 2.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
 
-3. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing)
+3. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) <br>
 
-4. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing)
+4. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
+
