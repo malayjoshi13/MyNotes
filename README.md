@@ -4,7 +4,7 @@
 1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) <br>
 1.2. Transformer (a type of Language model) <br>
 1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1VDVUjCs7R7CApmPvXT95OdPNIed1u_8QavRHpIvRL1M/edit?usp=sharing) <br>
-1.2.2. [Transformer-based pre-trained LMs for machine translation (Helsinki-NLP/opus-mt-hi-en, facebook/mbart-large-50-many-to-one-mmt, facebook/m2m100_418M)](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing) <br>
+1.2.2. [Transformer-based pre-trained LMs for machine translation](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing) <br>
 1.3. BERT (a type of Language model) <br>
 1.3.1. [Original BERT](https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link) <br>
 1.3.2. [BioBERT](https://docs.google.com/document/d/1YWCwVeTFuEtk6hyeW-iKhRIJGiyd6ZUqzBAh6R6ckW4/edit?usp=sharing) <br>
