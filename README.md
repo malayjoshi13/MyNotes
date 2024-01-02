@@ -14,10 +14,10 @@
 3.1 [Greedy search vs Beam search](https://docs.google.com/document/d/1JrVWp7wnZP2rT4xRL-KTCtDI5hdW_jniup_iFwdP3To/edit?usp=sharing): used [here](https://github.com/malayjoshi13/Describer). <br>
 
 4. Metrics <br>
-4.1. [BLEU score](https://docs.google.com/document/d/1lKH2x3n77tTvh3Jfe6sV-VisUQZ68Q0YaD3WQSW13kk/edit?usp=sharing): used [here](https://github.com/malayjoshi13/Describer) and [here](https://github.com/malayjoshi13/NeuralMachineTranslator). <br>
+4.1. [BLEU score](https://docs.google.com/document/d/1lKH2x3n77tTvh3Jfe6sV-VisUQZ68Q0YaD3WQSW13kk/edit?usp=sharing): used [here](https://github.com/malayjoshi13/Describer) and [here](https://github.com/malayjoshi13/Understanding-Transformer). <br>
 4.2. [ROUGHE score](https://docs.google.com/document/d/1xUQj_GsOtHkqW8wq5NAYLoqvkfCqhXfFGsAqX9ZEsag/edit?usp=sharing) <br>
-4.3. [Character Error Rate](https://docs.google.com/document/d/1XbUNDnR6FfuDVmdKZopTqz5a5UWmyCzfso-Hn73p7Ro/edit?usp=drive_link) <br>
-4.4. [Word Error Rate](https://docs.google.com/document/d/1FVwdXAT_zKgrG4McqE8_TYUM1b4zRimPRfiPkmRSnFA/edit?usp=drive_link) <br>
+4.3. [Character Error Rate](https://docs.google.com/document/d/1XbUNDnR6FfuDVmdKZopTqz5a5UWmyCzfso-Hn73p7Ro/edit?usp=drive_link): used [here](https://github.com/malayjoshi13/Understanding-Transformer). <br>
+4.4. [Word Error Rate](https://docs.google.com/document/d/1FVwdXAT_zKgrG4McqE8_TYUM1b4zRimPRfiPkmRSnFA/edit?usp=drive_link): used [here](https://github.com/malayjoshi13/Understanding-Transformer). <br>
 
 
 
