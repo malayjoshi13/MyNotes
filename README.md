@@ -10,14 +10,33 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [BioBERT](https://docs.google.com/document/d/1YWCwVeTFuEtk6hyeW-iKhRIJGiyd6ZUqzBAh6R6ckW4/edit?usp=sharing) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [RoBERTa](https://docs.google.com/document/d/12_b7DXJf7bDoZGO1IpvuKBYI7NGaTcg3PWaywq4Po3o/edit?usp=sharing) <br>
 
-3. Word Embedding Models <br>
-2.1. [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing) <br>
-2.2. [Word2Vec](https://docs.google.com/document/d/1uMI2jRvtdNcC7F-c9de-xiXpc__-u0TOcJnucnup-Vc/edit?usp=sharing)<br>
+2. Word Embedding Models <br>
+2.1. Context-independent<br>
 
-4. Decoding algorithms <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1. Context-independent without ML<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BOW<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TF-IDF<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2. Context-independent with ML <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing) <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Word2Vec](https://docs.google.com/document/d/1uMI2jRvtdNcC7F-c9de-xiXpc__-u0TOcJnucnup-Vc/edit?usp=sharing) <br>
+
+2.2. Context-independent<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1. Context-independent RNN-based <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ELMO<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CoVe<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2. Context-independent Transformer-based <br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BERT<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RoBERTa<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ALBERT<br>
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XLM<br>
+  
+5. Decoding algorithms <br>
 3.1 [Greedy search vs Beam search](https://docs.google.com/document/d/1JrVWp7wnZP2rT4xRL-KTCtDI5hdW_jniup_iFwdP3To/edit?usp=sharing) <br>
 
-5. Metrics <br>
+6. Metrics <br>
 4.1. [BLEU score](https://docs.google.com/document/d/1lKH2x3n77tTvh3Jfe6sV-VisUQZ68Q0YaD3WQSW13kk/edit?usp=sharing) <br>
 4.2. [ROUGE score](https://docs.google.com/document/d/1xUQj_GsOtHkqW8wq5NAYLoqvkfCqhXfFGsAqX9ZEsag/edit?usp=sharing) <br>
 4.3. [Character Error Rate (CER) & Word Error Rate (WER)](https://docs.google.com/document/d/1XbUNDnR6FfuDVmdKZopTqz5a5UWmyCzfso-Hn73p7Ro/edit?usp=drive_link)
