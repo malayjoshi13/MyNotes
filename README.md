@@ -16,8 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - BOW<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - TF-IDF<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2. Context-independent with ML <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Word2Vec](https://docs.google.com/document/d/1uMI2jRvtdNcC7F-c9de-xiXpc__-u0TOcJnucnup-Vc/edit?usp=sharing) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing) <br>
 2.2. Context-independent<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1. Context-independent RNN-based <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ELMO<br>
