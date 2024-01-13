@@ -73,5 +73,6 @@
 6.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
 6.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
 6.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
+6.5. Helpful resource: what is TP, FP, TN, FN, confusion metrics
 
 7. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
