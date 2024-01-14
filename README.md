@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [BioBERT](https://docs.google.com/document/d/1YWCwVeTFuEtk6hyeW-iKhRIJGiyd6ZUqzBAh6R6ckW4/edit?usp=sharing) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [RoBERTa](https://docs.google.com/document/d/12_b7DXJf7bDoZGO1IpvuKBYI7NGaTcg3PWaywq4Po3o/edit?usp=sharing) <br>
 
-2. Word Embedding Models <br>
+2. Word Embedding Models (https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-deeplearning-activity-7152142197998424064-gxIh?utm_source=share&utm_medium=member_android)<br>
 2.1. Context-independent<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1. Context-independent without ML <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - BOW<br>
