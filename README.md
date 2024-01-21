@@ -76,3 +76,5 @@
 6.5. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
 
 7. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
+
+8. Vanishing and Exploding gradients --> https://www.youtube.com/watch?v=qowp6SQ9_Oo
