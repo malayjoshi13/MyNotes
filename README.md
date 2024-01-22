@@ -56,26 +56,33 @@
 ## Deep Learning
 
 1. Hyperparameters <br>
-1.1 [Input Shape, Hidden Layer Neurons, Dropout Rate, Batch Size, Learning Rate, Number of Epochs, Optimizer Parameters, Regularization Parameters, Batch Normalization Parameters](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing) <br>
+1.1 [Part 1](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing)Read here about:<br>
+Input Shape,<br>
+Hidden Layer Neurons,<br>
+Dropout Rate,<br>
+Batch Size,<br>
+Learning Rate,<br>
+Number of Epochs,<br>
+Optimizer Parameters,<br>
+Regularization Parameters,<br>
+Batch Normalization Parameters<br>
 1.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
 1.3. [Weight Initialization, Loss Function] <br>
 
-2. Gradient descent, backpropagation, gradient exploding and dying problem
+3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo
    
-3. Optimizers <br>
+4. Optimizers <br>
 3.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
 
-4. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) <br>
+5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) <br>
 
-5. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
+6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
 
-6. Metrics <br>
+7. Metrics <br>
 6.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
 6.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
 6.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
 6.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
 6.5. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
 
-7. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
-
-8. Vanishing and Exploding gradients --> https://www.youtube.com/watch?v=qowp6SQ9_Oo
+8. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
