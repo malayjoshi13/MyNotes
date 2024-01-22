@@ -64,8 +64,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Rate,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of Epochs,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizer Parameters,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regularization Parameters,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch Normalization Parameters<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regularization Parameters<br>
 1.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
 1.3. [Weight Initialization, Loss Function] <br>
 
