@@ -57,7 +57,8 @@
 
 1. Hyperparameters <br>
 1.1 [Input Shape, Hidden Layer Neurons, Dropout Rate, Batch Size, Learning Rate, Number of Epochs, Optimizer Parameters, Regularization Parameters, Batch Normalization Parameters](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing) <br>
-1.2. [Activation Functions, Weight Initialization, Loss Function](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
+1.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
+1.3. [Weight Initialization, Loss Function] <br>
 
 2. Gradient descent, backpropagation, gradient exploding and dying problem
    
