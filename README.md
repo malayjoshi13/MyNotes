@@ -56,16 +56,17 @@
 ## Deep Learning
 
 1. Hyperparameters <br>
-1.1 [Part 1](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing)Read here about:<br>
-Input Shape,<br>
-Hidden Layer Neurons,<br>
-Dropout Rate,<br>
-Batch Size,<br>
-Learning Rate,<br>
-Number of Epochs,<br>
-Optimizer Parameters,<br>
-Regularization Parameters,<br>
-Batch Normalization Parameters<br>
+1.1 [Part 1](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing) read here about:<br>
+&nbsp;&nbsp;Input Shape,<br>
+&nbsp;&nbsp;Hidden Layer Neurons,<br>
+&nbsp;&nbsp;Dropout Rate,<br>
+&nbsp;&nbsp;Batch Size,<br>
+&nbsp;&nbsp;Learning Rate,<br>
+&nbsp;&nbsp;Number of Epochs,<br>
+&nbsp;&nbsp;Optimizer Parameters,<br>
+&nbsp;&nbsp;Regularization Parameters,<br>
+&nbsp;&nbsp;Batch Normalization Parameters<br>
+
 1.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
 1.3. [Weight Initialization, Loss Function] <br>
 
