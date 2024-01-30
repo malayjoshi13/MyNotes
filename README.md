@@ -66,7 +66,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizer Parameters,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regularization Parameters<br>
 1.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
-1.3. [Weight Initialization, Loss Function] <br>
+1.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
+1.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) <br>
 
 3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo
    
