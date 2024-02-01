@@ -69,7 +69,7 @@
 1.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
 1.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) <br>
 
-3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo
+3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo, https://www.youtube.com/watch?v=6xO-x8y0YSY
    
 4. Optimizers <br>
 3.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
