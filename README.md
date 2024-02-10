@@ -1,12 +1,12 @@
 ## NLP
 
 1. Architectures <br>
-1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.whg5wujjc5y4, https://www.nirajai.com/home/deep-learning#h.ogywyvce9qpg<br>
+1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.whg5wujjc5y4, https://www.nirajai.com/home/deep-learning#h.ogywyvce9qpg<, https://www.youtube.com/watch?v=MkLDNhUrFls&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=8&pp=iAQB br>
 1.2. Transformer (a type of Language model) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1iM8tG3rspHcS-D23kZVo71uP3Qkm9HUyAOAXesK7rgc/edit?usp=sharing) about attention: https://www.nirajai.com/home/deep-learning#h.yl0pbp2f0bof<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1iM8tG3rspHcS-D23kZVo71uP3Qkm9HUyAOAXesK7rgc/edit?usp=sharing) about attention: https://www.nirajai.com/home/deep-learning#h.yl0pbp2f0bof , https://www.youtube.com/watch?v=JNwj1qoiI_c&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=9&pp=iAQB , https://www.youtube.com/watch?v=JgWXZmQ0Q-0&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=10&pp=iAQB<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2. [Transformer-based pre-trained LMs for machine translation](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing) <br>
 1.3. BERT (a type of Language model) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1. [Original BERT](https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.1. [Original BERT](https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link) https://www.youtube.com/watch?v=kiVGxInNmoQ&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=11&pp=iAQB <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [BioBERT](https://docs.google.com/document/d/1YWCwVeTFuEtk6hyeW-iKhRIJGiyd6ZUqzBAh6R6ckW4/edit?usp=sharing) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. [RoBERTa](https://docs.google.com/document/d/12_b7DXJf7bDoZGO1IpvuKBYI7NGaTcg3PWaywq4Po3o/edit?usp=sharing) <br>
 
@@ -40,7 +40,7 @@
 
 ## Computer Vision 
 
-1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies https://www.nirajai.com/home/deep-learning#h.424ld213bsxr <br>
+1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies https://www.nirajai.com/home/deep-learning#h.424ld213bsxr , https://www.youtube.com/watch?v=v--JD0OupGU&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=6&pp=iAQB<br>
 2. [Background extraction algorithms](https://docs.google.com/document/d/1XEhd3OpThcv1u9DNhny6Gjk2W1ihsylnhBf5Q4bcbks/edit?usp=sharing) <br>
 3. [Face detection, alignment, and recognition models](https://docs.google.com/document/d/1trH2mB0tfAA9cAvHFnjXmSHT_wx5Xs4iKmy7ShQOOw8/edit?usp=sharing) <br>
 4. [Similarity metrics for finding similarity between image representation vectors](https://docs.google.com/document/d/1BU7CyktUr5x3UQeErRvu0eb9hnbpMEf3YfWn6doCmEo/edit?usp=sharing) <br>
@@ -55,7 +55,7 @@
 
 ## Deep Learning
 
-1. Into about Deep Learning https://www.nirajai.com/home/deep-learning#h.zbtkd5gqp8w <br>
+1. Into about Deep Learning https://www.nirajai.com/home/deep-learning#h.zbtkd5gqp8w , https://www.youtube.com/watch?v=ra6jYAdeXSI&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=2&pp=iAQB<br>
 
 2. Hyperparameters <br>
 2.1 [Read here about:](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing)<br>
@@ -74,11 +74,11 @@
 3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo, https://www.youtube.com/watch?v=6xO-x8y0YSY, https://www.nirajai.com/home/deep-learning#h.7x2phd7dccx, https://www.nirajai.com/home/deep-learning#h.5ojn6by51jlz, https://www.nirajai.com/home/deep-learning#h.155znqvcwo43
    
 4. Optimizers <br>
-4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.arvnga5vidbp<br>
+4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.arvnga5vidbp , https://www.youtube.com/watch?v=2HFe32WAvpo&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=3&pp=iAQB<br>
 
-5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.s9nmszbn4mca <br>
+5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.s9nmszbn4mca , https://www.youtube.com/watch?v=EhRU-UW0r4A&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=4&pp=iAQBhttps://www.youtube.com/watch?v=puLF9gBt4ok&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=7&pp=iAQB , https://www.youtube.com/watch?v=puLF9gBt4ok&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=7&pp=iAQB<br>
 
-6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
+6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) https://www.youtube.com/watch?v=vUaevfg_WC0&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=5&pp=iAQB <br>
 
 7. Metrics <br>
 7.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
