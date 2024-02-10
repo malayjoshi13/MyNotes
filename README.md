@@ -40,7 +40,7 @@
 
 ## Computer Vision 
 
-1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies <br>
+1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies https://www.nirajai.com/home/deep-learning#h.424ld213bsxr <br>
 2. [Background extraction algorithms](https://docs.google.com/document/d/1XEhd3OpThcv1u9DNhny6Gjk2W1ihsylnhBf5Q4bcbks/edit?usp=sharing) <br>
 3. [Face detection, alignment, and recognition models](https://docs.google.com/document/d/1trH2mB0tfAA9cAvHFnjXmSHT_wx5Xs4iKmy7ShQOOw8/edit?usp=sharing) <br>
 4. [Similarity metrics for finding similarity between image representation vectors](https://docs.google.com/document/d/1BU7CyktUr5x3UQeErRvu0eb9hnbpMEf3YfWn6doCmEo/edit?usp=sharing) <br>
@@ -55,8 +55,10 @@
 
 ## Deep Learning
 
-1. Hyperparameters <br>
-1.1 [Read here about:](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing)<br>
+1. Into about Deep Learning https://www.nirajai.com/home/deep-learning#h.zbtkd5gqp8w <br>
+
+2. Hyperparameters <br>
+2.1 [Read here about:](https://docs.google.com/document/d/1SeBsaNKqrJzQZrWqqRJ-dLbSdnaPPCKuTmHVk9sFgis/edit?usp=sharing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Input Shape,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hidden Layer Neurons,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dropout Rate,<br>
@@ -65,24 +67,26 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of Epochs,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizer Parameters,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regularization Parameters<br>
-1.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
-1.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
-1.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) <br>
+2.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
+2.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
+2.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.g37khj5rvsoz <br>
 
-3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo, https://www.youtube.com/watch?v=6xO-x8y0YSY
+3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo, https://www.youtube.com/watch?v=6xO-x8y0YSY, https://www.nirajai.com/home/deep-learning#h.7x2phd7dccx, https://www.nirajai.com/home/deep-learning#h.5ojn6by51jlz, https://www.nirajai.com/home/deep-learning#h.155znqvcwo43
    
 4. Optimizers <br>
-3.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
+4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.arvnga5vidbp<br>
 
-5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) <br>
+5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.s9nmszbn4mca <br>
 
 6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
 
 7. Metrics <br>
-6.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
-6.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
-6.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
-6.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
-6.5. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
+7.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
+7.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
+7.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
+7.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
+7.5. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
 
 8. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
+
+9. bias variance tradeoff https://www.nirajai.com/home/deep-learning#h.nf8oaj8bb6a
