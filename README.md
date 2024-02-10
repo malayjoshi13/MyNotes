@@ -1,7 +1,7 @@
 ## NLP
 
 1. Architectures <br>
-1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.whg5wujjc5y4, https://www.nirajai.com/home/deep-learning#h.ogywyvce9qpg, https://www.youtube.com/watch?v=MkLDNhUrFls&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=8&pp=iAQB , https://youtu.be/2EM1QNxwt6Q?si=Tt8mVvrk2EBIFYVJ, https://youtu.be/HnlHXNAGQiw?si=d4G7JeZGzTp-llJG, https://youtu.be/vn4eca-GIlQ?si=GI9Nr6etr26_fbUE , https://youtu.be/sweEPKnoMWo?si=F_8qhzWG-olIXkfK , https://youtu.be/GfbcMxOlKOw?si=Iz4-0x_I9Q30xSwt <br>
+1.1. [LSTM (a type of RNN)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing) <br>
 1.2. Transformer (a type of Language model) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1. [Vanilla Transformer](https://docs.google.com/document/d/1iM8tG3rspHcS-D23kZVo71uP3Qkm9HUyAOAXesK7rgc/edit?usp=sharing) about attention: https://www.nirajai.com/home/deep-learning#h.yl0pbp2f0bof , https://www.youtube.com/watch?v=JNwj1qoiI_c&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=9&pp=iAQB , https://mlbootcamp.ai/course.html?guid=d105240a-94e1-405b-be80-60056659c24c , https://www.youtube.com/watch?v=JgWXZmQ0Q-0&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=10&pp=iAQB , https://youtu.be/A-XVYMkdwJM?si=Oc6ZuyygsTR_GSfD <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2. [Transformer-based pre-trained LMs for machine translation](https://docs.google.com/document/d/1okp-PTvV5kAsaFU6yEpyZLIzcN9yDKP9WwesKo_uHw0/edit?usp=sharing) <br>
