@@ -77,9 +77,9 @@
 4. Optimizers <br>
 4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
 
-5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.s9nmszbn4mca , https://www.youtube.com/watch?v=EhRU-UW0r4A&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=4&pp=iAQB https://www.youtube.com/watch?v=puLF9gBt4ok&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=7&pp=iAQB , https://youtu.be/n0EnLYQ0XWE?si=Cdxbz0ZgORz0ji1y , https://www.youtube.com/watch?v=puLF9gBt4ok&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=7&pp=iAQB<br>
+5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) <br>
 
-6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) https://youtu.be/nbrWXQOHChc?si=WvdRngPoMt2NWkDb , https://www.youtube.com/watch?v=vUaevfg_WC0&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=5&pp=iAQB <br>
+6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
 
 7. Metrics <br>
 7.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
