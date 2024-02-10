@@ -68,9 +68,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of Epochs,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizer Parameters,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regularization Parameters<br>
-2.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) https://youtu.be/Hal2Tvd0uBs?si=pzX3W8VmbbtacQq9 <br>
-2.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) https://youtu.be/obnxo3Qw-1w?si=CLmAGI-qMqJe395t <br>
-2.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.g37khj5rvsoz , https://youtu.be/Hal2Tvd0uBs?si=pzX3W8VmbbtacQq9<br>
+2.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
+2.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
+2.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) <br>
 
 3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo, https://www.youtube.com/watch?v=6xO-x8y0YSY, https://www.nirajai.com/home/deep-learning#h.7x2phd7dccx, https://www.nirajai.com/home/deep-learning#h.5ojn6by51jlz, https://www.nirajai.com/home/deep-learning#h.155znqvcwo43
    
