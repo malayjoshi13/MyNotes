@@ -75,7 +75,7 @@
 3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=qowp6SQ9_Oo, https://www.youtube.com/watch?v=6xO-x8y0YSY, https://www.nirajai.com/home/deep-learning#h.7x2phd7dccx, https://www.nirajai.com/home/deep-learning#h.5ojn6by51jlz, https://www.nirajai.com/home/deep-learning#h.155znqvcwo43
    
 4. Optimizers <br>
-4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.arvnga5vidbp , https://www.youtube.com/watch?v=2HFe32WAvpo&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=3&pp=iAQB , https://youtu.be/atacYUlofcs?si=DksAjhh9nA5EhCIQ <br>
+4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
 
 5. [Regularization](https://docs.google.com/document/d/1ZGH61bgoCKa5myyzvbZPWwccbUwqF7E5mYg1q-YfmEU/edit?usp=sharing) https://www.nirajai.com/home/deep-learning#h.s9nmszbn4mca , https://www.youtube.com/watch?v=EhRU-UW0r4A&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=4&pp=iAQBhttps://www.youtube.com/watch?v=puLF9gBt4ok&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=7&pp=iAQB , https://youtu.be/n0EnLYQ0XWE?si=Cdxbz0ZgORz0ji1y , https://www.youtube.com/watch?v=puLF9gBt4ok&list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz&index=7&pp=iAQB<br>
 
