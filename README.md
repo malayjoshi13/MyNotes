@@ -65,9 +65,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dropout Rate,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch Size,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Rate,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of Epochs,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimizer Parameters,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regularization Parameters<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Number of Epochs<br>
 2.2. [Activation Functions](https://docs.google.com/document/d/1nuf9Sydn8D1g0hLCnY3duVTc_Aph2LiYAUl-sNA8oWQ/edit?usp=sharing) <br>
 2.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
 2.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) <br>
