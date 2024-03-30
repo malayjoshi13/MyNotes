@@ -80,11 +80,13 @@
 6. [Batch Normalization](https://docs.google.com/document/d/1tg1jl9BvSU4bo2Gj50ChzWZxHCNAVdeq1ei-VxDb84E/edit?usp=sharing) <br>
 
 7. Metrics <br>
-7.1. [Accuracy](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing) <br>
-7.2. [Precision](https://docs.google.com/document/d/1EgYHTAErdFjcAzMgpTGq1EyKsTldvfXpaLY18kNPn8U/edit?usp=sharing) <br>
-7.3. [Recall](https://docs.google.com/document/d/1hVPDBDxjs3zA5y8cP_iapi2LUEUVMl9FpfBIVaDmIL4/edit?usp=sharing) <br>
-7.4. [F1](https://docs.google.com/document/d/1LaUgQAWQLVVXNLM0jcw0sgOkBbuVlpD0aeO2DkNqQ9I/edit?usp=sharing) <br>
-7.5. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
+7.1. [Read here about:](https://docs.google.com/document/d/19BU5OgnDCtSiLgijS1M26HLVhUYEh0nmCSY2twawXHQ/edit?usp=sharing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accuracy,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Precision,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recall,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Rate,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F1<br>
+7.2. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
 
 8. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
 
