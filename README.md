@@ -86,7 +86,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recall,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Rate,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F1<br>
-7.2. [Additional Helpful Resource](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing) - TP, FP, TN, FN, Confusion Matrix, macro-avg (P, R, F1), weighted-avg (P, R, F1) <br>
+7.2. [Read here about helpful information:](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TP,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FP,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TN,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FN,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confusion Matrix,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro-avg P, R and F1,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weighted-avg P, R and F1<br>
 
 8. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
 
