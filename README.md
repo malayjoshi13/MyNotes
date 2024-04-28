@@ -97,4 +97,4 @@
 
 8. K-fold cross validation, what to do if model is overfitting or underfitting, what to do if we less training data (quickly check first if data you have is actually enough or you actually need more)
 
-9. [Bias-variance tradeoff](https://docs.google.com/document/d/1gRNhomZx-FmHJzawa7fsLk3iKcx4c_-in-UaH0pO5X0/edit?usp=sharin): https://www.nirajai.com/home/deep-learning#h.nf8oaj8bb6a
+9. [Bias-variance tradeoff for Overfitting, Underfitting and Optimal model](https://docs.google.com/document/d/1gRNhomZx-FmHJzawa7fsLk3iKcx4c_-in-UaH0pO5X0/edit?usp=sharing)
