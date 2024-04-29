@@ -94,4 +94,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Macro-avg P, R and F1,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weighted-avg P, R and F1<br>
 
-8. [Bias-variance tradeoff for Overfitting, Underfitting and Optimal model](https://docs.google.com/document/d/1gRNhomZx-FmHJzawa7fsLk3iKcx4c_-in-UaH0pO5X0/edit?usp=sharing)
+8. [Read here about: ](https://docs.google.com/document/d/1gRNhomZx-FmHJzawa7fsLk3iKcx4c_-in-UaH0pO5X0/edit?usp=sharing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bias & variance tradeoff<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Relation between Bias & Variance and Overfitting, Underfitting and Optimal model<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cross-validation technique (aka validation process done after model training) and its types to avoid model overfitting<br>
+
