@@ -70,7 +70,7 @@
 2.3. [Weight Initialization](https://docs.google.com/document/d/1NrKfeDi9v8HY42Bc1_ZL3S2QPSamg4e_j-4kt0ezMB4/edit?usp=sharing) <br>
 2.4. [Loss Function](https://docs.google.com/document/d/1mTPMb2dCxIQXr5UlYbKbtTIDIvr_vOlVjF3lbYE64bw/edit?usp=sharing) <br>
 
-3. Gradient descent, backpropagation, gradient exploding and dying problem --> https://www.youtube.com/watch?v=6xO-x8y0YSY, https://www.nirajai.com/home/deep-learning#h.7x2phd7dccx, https://www.nirajai.com/home/deep-learning#h.5ojn6by51jlz, https://www.nirajai.com/home/deep-learning#h.155znqvcwo43
+3. Backpropagation, Gradient descent (stochastic GD, batch GD, and mini-batch GD), and exploding gradient & vanishing gradient problems
    
 4. Optimizers <br>
 4.1. [Adam, bla, bla](https://docs.google.com/document/d/1gxzzkCKq473y-CbyVygYn_on2iq6VAUl7gvCNjx2jPw/edit?usp=sharing) <br>
