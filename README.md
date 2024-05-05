@@ -85,7 +85,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Precision,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recall,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F1<br>
-7.2. [Read here about helpful information:](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing)<br>
+7.2. [Read here about:](https://docs.google.com/document/d/1IJWCtFApzoG66IYiUv5Rgxdz6RkWSavLGKUp_-dY6-c/edit?usp=sharing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TP,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FP,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TN,<br>
