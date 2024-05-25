@@ -50,8 +50,8 @@
 7. Metrics <br>
 7.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing) <br>
 7.2. [For OCR](https://docs.google.com/document/d/1gbkllynV_VnRC7kU6yAdftyvBRl9nBQqga4lA6cOXVE/edit?usp=sharing) <br>
-
-
+8. Loss Function <br>
+8.1. [For object detection](https://docs.google.com/document/d/1mOHXKfUgkNBlHHB59gjY9lV5ZZkygeVyc4XMkXY7G2g/edit?usp=sharing) 
 
 
 ## Deep Learning
