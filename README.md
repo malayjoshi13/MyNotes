@@ -19,14 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Word2Vec](https://docs.google.com/document/d/1uMI2jRvtdNcC7F-c9de-xiXpc__-u0TOcJnucnup-Vc/edit?usp=sharing) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [GloVe](https://docs.google.com/document/d/1h-s2ePP7vvNtX0noQXvpXr6_oTeKCFPdFmKBGq-y7ho/edit?usp=sharing) <br>
 2.2. Context-independent<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1. Context-independent RNN-based <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ELMO<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CoVe<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2. Context-independent Transformer-based <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - BERT<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - RoBERTa<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ALBERT<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - XLM<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1. Context-independent RNN-based [ELMO and CoVe] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2. Context-independent Transformer-based [BERT, roBERTa, ALBERT] <br>
   
 5. Decoding algorithms <br>
 3.1 [Greedy search vs Beam search](https://docs.google.com/document/d/1JrVWp7wnZP2rT4xRL-KTCtDI5hdW_jniup_iFwdP3To/edit?usp=sharing) <br>
@@ -34,7 +28,8 @@
 6. Metrics <br>
 4.1. [BLEU score](https://docs.google.com/document/d/1lKH2x3n77tTvh3Jfe6sV-VisUQZ68Q0YaD3WQSW13kk/edit?usp=sharing) <br>
 4.2. [ROUGE score](https://docs.google.com/document/d/1xUQj_GsOtHkqW8wq5NAYLoqvkfCqhXfFGsAqX9ZEsag/edit?usp=sharing) <br>
-4.3. [Character Error Rate (CER) & Word Error Rate (WER)](https://docs.google.com/document/d/1XbUNDnR6FfuDVmdKZopTqz5a5UWmyCzfso-Hn73p7Ro/edit?usp=drive_link)
+4.3. [Character Error Rate (CER) & Word Error Rate (WER)](https://docs.google.com/document/d/1XbUNDnR6FfuDVmdKZopTqz5a5UWmyCzfso-Hn73p7Ro/edit?usp=drive_link) <br>
+4.4. [Cosine Similarity]() 
 
 
 
@@ -48,8 +43,7 @@
 5. [Object detection models](https://docs.google.com/document/d/1oyGZHHzRHcmMOoldbjm7wCK3dkJ-7gtGof0N4dW9fVw/edit?usp=drive_link) <br>
 6. [OCR models](https://docs.google.com/document/d/18qM2dFXHbgXnvP3ySgOd4ukTuyles6SsI28S-PcyeaI/edit?usp=sharing) <br>
 7. Metrics <br>
-7.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing) <br>
-7.2. [For OCR](https://docs.google.com/document/d/1gbkllynV_VnRC7kU6yAdftyvBRl9nBQqga4lA6cOXVE/edit?usp=sharing) <br>
+7.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing)
 8. Loss Function <br>
 8.1. [For object detection](https://docs.google.com/document/d/1mOHXKfUgkNBlHHB59gjY9lV5ZZkygeVyc4XMkXY7G2g/edit?usp=sharing) 
 
