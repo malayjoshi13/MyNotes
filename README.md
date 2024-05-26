@@ -27,7 +27,7 @@
 4.1. [BLEU score](https://docs.google.com/document/d/1lKH2x3n77tTvh3Jfe6sV-VisUQZ68Q0YaD3WQSW13kk/edit?usp=sharing) <br>
 4.2. [ROUGE score](https://docs.google.com/document/d/1xUQj_GsOtHkqW8wq5NAYLoqvkfCqhXfFGsAqX9ZEsag/edit?usp=sharing) <br>
 4.3. [Character Error Rate (CER) & Word Error Rate (WER)](https://docs.google.com/document/d/1XbUNDnR6FfuDVmdKZopTqz5a5UWmyCzfso-Hn73p7Ro/edit?usp=drive_link) <br>
-4.4. [Cosine Similarity]() 
+4.4. [Cosine Similarity](https://docs.google.com/document/d/1oDWF6jjud1E_iBUxLCcuFoJWcXGmYmp5dF11ReYmpfE/edit?usp=drive_link) 
 
 
 
