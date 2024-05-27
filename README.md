@@ -1,3 +1,5 @@
+Alternate source: https://13-malayjoshi.medium.com/nlp-578ccca2c266
+
 ## NLP
 
 1. Architectures <br>
