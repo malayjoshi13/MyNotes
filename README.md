@@ -37,7 +37,7 @@
 1. [Convolutional Neural Networks](https://docs.google.com/document/d/1vEKRSIQn7QWPnfpE1zpILDuuzjyD0k33RLU7N--niSM/edit?usp=sharing) -- arch, working, accuracies <br>
 3. [Face detection, alignment, and recognition models](https://docs.google.com/document/d/1trH2mB0tfAA9cAvHFnjXmSHT_wx5Xs4iKmy7ShQOOw8/edit?usp=sharing) <br>
 4. [Similarity metrics for finding similarity between image representation vectors](https://docs.google.com/document/d/1BU7CyktUr5x3UQeErRvu0eb9hnbpMEf3YfWn6doCmEo/edit?usp=sharing) <br>
-5. [Object detection models](https://docs.google.com/document/d/1oyGZHHzRHcmMOoldbjm7wCK3dkJ-7gtGof0N4dW9fVw/edit?usp=drive_link) [- RCNN, SSD, YOLO]<br>
+5. [Object detection models](https://docs.google.com/document/d/1oyGZHHzRHcmMOoldbjm7wCK3dkJ-7gtGof0N4dW9fVw/edit?usp=drive_link) [Ex: RCNN, SSD, YOLO]<br>
 6. Metrics <br>
 6.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing)
 7. Loss Function <br>
