@@ -3,7 +3,7 @@
 1. Architectures <br>
 1.1. [RNN and LSTM (which is an improved RNN arch)](https://docs.google.com/document/d/1al-YFsSfIWcVt9nRIfFREqJVszUKPduPXgtNyuxLaZA/edit?usp=sharing)<br>
 1.2. [Transformer](https://docs.google.com/document/d/1iM8tG3rspHcS-D23kZVo71uP3Qkm9HUyAOAXesK7rgc/edit?usp=sharing)<br>
-1.3. [BERT][https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link] <br>
+1.3. [BERT](https://docs.google.com/document/d/1QzvKquupoa3m-oZXYKaf-Zp189hQoyp1oiDh5eZgjcs/edit?usp=drive_link) <br>
 
 2. Word Embedding Models (https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-deeplearning-activity-7152142197998424064-gxIh?utm_source=share&utm_medium=member_android)<br>
 2.1. Context-independent<br>
