@@ -39,9 +39,9 @@
 4. [Similarity metrics for finding similarity between image representation vectors](https://docs.google.com/document/d/1BU7CyktUr5x3UQeErRvu0eb9hnbpMEf3YfWn6doCmEo/edit?usp=sharing) <br>
 5. [Object detection models](https://docs.google.com/document/d/1oyGZHHzRHcmMOoldbjm7wCK3dkJ-7gtGof0N4dW9fVw/edit?usp=drive_link) [Ex: RCNN, SSD, YOLO]<br>
 6. Metrics <br>
-6.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing)
+6.1. [For object detection](https://docs.google.com/document/d/1gF7hUGuEaBBVK9QK3PbdQ7uVQ0yv3CMETL3OVLUlvEE/edit?usp=sharing) [Ex: Precision, Recall, mAP]
 7. Loss Function <br>
-7.1. [For object detection](https://docs.google.com/document/d/1mOHXKfUgkNBlHHB59gjY9lV5ZZkygeVyc4XMkXY7G2g/edit?usp=sharing) 
+7.1. [For object detection](https://docs.google.com/document/d/1mOHXKfUgkNBlHHB59gjY9lV5ZZkygeVyc4XMkXY7G2g/edit?usp=sharing) [Ex: Box loss, Objectness loss, Class loss]
 
 
 ## Deep Learning
